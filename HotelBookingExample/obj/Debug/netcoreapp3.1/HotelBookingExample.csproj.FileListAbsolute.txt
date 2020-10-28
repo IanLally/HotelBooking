@@ -1,0 +1,17 @@
+C:\Users\44794\source\repos\HotelBookingExample\bin\Debug\netcoreapp3.1\HotelBookingExample.deps.json
+C:\Users\44794\source\repos\HotelBookingExample\bin\Debug\netcoreapp3.1\HotelBookingExample.dll
+C:\Users\44794\source\repos\HotelBookingExample\bin\Debug\netcoreapp3.1\HotelBookingExample.pdb
+C:\Users\44794\source\repos\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.AssemblyInfoInputs.cache
+C:\Users\44794\source\repos\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.AssemblyInfo.cs
+C:\Users\44794\source\repos\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.csproj.CoreCompileInputs.cache
+C:\Users\44794\source\repos\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.dll
+C:\Users\44794\source\repos\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.pdb
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\bin\Debug\netcoreapp3.1\HotelBookingExample.deps.json
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\bin\Debug\netcoreapp3.1\HotelBookingExample.dll
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\bin\Debug\netcoreapp3.1\HotelBookingExample.pdb
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.csprojAssemblyReference.cache
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.AssemblyInfoInputs.cache
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.AssemblyInfo.cs
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.csproj.CoreCompileInputs.cache
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.dll
+C:\Users\44794\Documents\GitHub\HotelBooking\HotelBookingExample\obj\Debug\netcoreapp3.1\HotelBookingExample.pdb
